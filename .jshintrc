@@ -8,5 +8,6 @@
   "eqeqeq": true,
   "trailing": true,
   "white": true,
+  "esnext": true,
   "indent": 2    
 }
